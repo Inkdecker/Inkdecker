@@ -22,11 +22,3 @@
 
 [Search-center](https://chromewebstore.google.com/detail/search-center/ndfplmdnbnefomnjiknbpejdceedhdmf?hl=en) : 
   Chrome plugin that allows the search of keywords across multiple search engines, useful to look up many stock photo websites at once.
-
-
-
-
-
-
-wfdownloader
-
