@@ -3,13 +3,13 @@
 [Autohotkey.](https://www.autohotkey.com/)
   - Custom keybinds / sound effects for Photoshop, Blender, virtually everything...
   - [disable ALT key menu acceleration](https://github.com/TaranVH/2nd-keyboard/blob/master/Taran's_Windows_Mods/Alt_menu_acceleration_DISABLER.ahk), by TaranVH
-      Prevent shortcuts from triggering after pressing ALT, especially useful on photoshop.
+      Prevent shortcuts from triggering after pressing ALT, especially useful on Photoshop.
 
 [Krokiet / Czkawka](https://github.com/qarmin/czkawka/tree/master)
   Remove file duplicates, works for Images, Songs, etc..
   
 [Mega](https://mega.io/)
-  File transfert and backup, folder syncronisation. Useful to send files back and forth between phone and computer.
+  File transfer and backup, folder synchronization. Useful to send files back and forth between phone and computer.
 
 [Rainmeter](https://www.rainmeter.net/)
   Used to generate random images and text slideshows, useful to display and remember references / sentences overtimes.
