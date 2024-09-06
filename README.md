@@ -17,10 +17,10 @@
 [Tampermonkey](https://www.tampermonkey.net/)
   Custom scripts used to download images over different websites. (Google Maps, Flicker, IMDB, etc...) as well as capturing frames from reals and Videos.
 
-[wfdownloader](https://www.wfdownloader.xyz/download) and [gallery-dl](https://github.com/mikf/gallery-dl)
+[WFdownloader](https://www.wfdownloader.xyz/download) and [Gallery-dl](https://github.com/mikf/gallery-dl)
   Download / Backup image archive.
 
-[search-center](https://chromewebstore.google.com/detail/search-center/ndfplmdnbnefomnjiknbpejdceedhdmf?hl=en)
+[Search-center](https://chromewebstore.google.com/detail/search-center/ndfplmdnbnefomnjiknbpejdceedhdmf?hl=en)
   Chrome plugin that allows the search of keywords across multiple search engines, useful to look up many stock photo websites at once.
 
 
