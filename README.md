@@ -22,3 +22,10 @@
 
 [Search-center](https://chromewebstore.google.com/detail/search-center/ndfplmdnbnefomnjiknbpejdceedhdmf?hl=en) : 
   Chrome plugin that allows the search of keywords across multiple search engines, useful to look up many stock photo websites at once.
+
+[7+ Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) : 
+  Allow to sort the folders displayed in the taskbar alphabetically, particularly useful when having to manage many folders at once.
+
+
+
+  
