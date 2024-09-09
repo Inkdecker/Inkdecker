@@ -1,4 +1,4 @@
-## Tools I use and recommandations:
+## Tools I use and recommendations:
 
 [Autohotkey.](https://www.autohotkey.com/) : 
   - Custom keybinds / sound effects for Photoshop, Blender, virtually everything...
