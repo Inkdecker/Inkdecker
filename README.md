@@ -12,7 +12,7 @@
   File transfer and backup, folder synchronization. Useful to send files back and forth between phone and computer.
 
 [Rainmeter](https://www.rainmeter.net/) : 
-  Used to generate random images and text slideshows, useful to display and remember references / sentences overtimes.
+  Used to generate random images and text slideshows, useful to display and remember references / sentences overtime.
 
 [Tampermonkey](https://www.tampermonkey.net/) : 
   Custom scripts used to download images over different websites. (Google Maps, Flicker, IMDB, etc...) as well as capturing frames from reals and Videos.
